@@ -4,6 +4,8 @@
 
 -
 
-Junto contm um fluxograma de analise para cartão de credito
+Junto contm um fluxograma de analise para cartão de credito:      
+
+[Uploading Cartão de credito - Analise.pdf…]()
 
 -
